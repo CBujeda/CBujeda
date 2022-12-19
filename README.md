@@ -1,10 +1,11 @@
 
 <h2> Hola! Soy Clara </h2>
 <h5> 👩‍💻 About Me </h5>
-- 💻&nbsp;  [Python | Java | C# ]  SpringBoot 
-- 🌐&nbsp;  [HTML | CSS | JavaScript ] Bootstrap | Angular
-- 🛢 &nbsp;  [MySQL | MariaDB ]
-- 🔧&nbsp;  [Visual Studio code | Eclipse | Git ]
+- 💻&nbsp;  [Python | Java | C# ]  SpringBoot </br>
+- 🌐&nbsp;  [HTML | CSS | JavaScript ] Bootstrap | Angular</br>
+- 🛢 &nbsp;  [MySQL | MariaDB ]</br>
+- 🔧&nbsp;  [Visual Studio code | Eclipse | Git ]</br>
+</br>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=CBujeda&count_private=true&show_icons=true&theme=dark&custom_title=Stats | Clara  "Stats")](https://github.com/CBujeda "Stats")
 ![Most Used Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=CBujeda&layout=compact&text_color=daf7dc&bg_color=151515 "Most Used Lenguajes")
