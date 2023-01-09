@@ -1,7 +1,7 @@
 
 <h2> Hola! Soy Clara </h2>
 <h5> 👩‍💻 About Me </h5>
-- 💻&nbsp;  [Python | Java | C# ]  SpringBoot </br>
+- 💻&nbsp;  [ Java | Python | C# ]  SpringBoot </br>
 - 🌐&nbsp;  [HTML | CSS | JavaScript ] Bootstrap | Angular</br>
 - 🛢 &nbsp;  [MySQL | MariaDB ]</br>
 - 🔧&nbsp;  [Visual Studio code | Eclipse | Git ]</br>
