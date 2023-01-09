@@ -6,11 +6,11 @@
 - 🛢 &nbsp;  [MySQL | MariaDB ]</br>
 - 🔧&nbsp;  [Visual Studio code | Eclipse | Git ]</br>
 </br>
-
+<!-- 
 ![Stats](https://github-readme-stats.vercel.app/api?username=CBujeda&count_private=true&show_icons=true&theme=dark) <br>
 ![Most Used Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=CBujeda&layout=compact&text_color=daf7dc&bg_color=151515 "Most Used Lenguajes")<br>
 
-
+-->
 <!---
 - 👋 Hi, I’m @CBujeda
 - 👀 I’m interested in ...
