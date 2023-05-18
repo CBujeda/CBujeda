@@ -1,6 +1,6 @@
 ##### Hola! Soy Clara
 
-<img src="https://raw.githubusercontent.com/CBujeda/CBujeda/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CBujeda/CBujeda/output/snake.svg" alt="Snake animation" />
 
 <!--
 
