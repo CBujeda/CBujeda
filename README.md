@@ -22,7 +22,7 @@
   <foreignObject width="100%" height="100%">
     
   
-  
+<div style="background-color: white;">  
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
@@ -238,7 +238,7 @@
   
   
   </foreignObject>
-<div style="background-color: white;">
+</svg>
   
   ###
 <h3 align="left">Social:</h3>
