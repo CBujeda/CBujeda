@@ -4,6 +4,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<div style="background-color: #fff;">
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
@@ -214,3 +215,4 @@
     />
   </a>
 </p>
+  </div>
