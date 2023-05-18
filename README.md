@@ -17,7 +17,12 @@
 -->
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="background-color: white;">
+
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    
+  
+  
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
@@ -229,6 +234,11 @@
   </a>
 </p>
   </div>
+  
+  
+  
+  </foreignObject>
+<div style="background-color: white;">
   
   ###
 <h3 align="left">Social:</h3>
