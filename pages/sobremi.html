@@ -64,6 +64,18 @@
             font-weight: bold;
             color: #ff88b7; /* Color rosa suave */
         }
+
+        .kawaii_h2 {
+            text-align: center;
+            font-size: 220%;
+            color: #ff75a0;
+          }
+        .kawaii {
+            text-align: center;
+            font-size: 170%;
+            color: #ffb6cd;
+            
+        }
     </style>
 </head>
 
@@ -96,4 +108,17 @@
             </div>
         </div>
     </nav>
+    <script>
+        // Función para calcular la edad actual
+        function calcularEdad() {
+          var fechaNacimiento = new Date('2003-06-30');
+          var edad = new Date(Date.now() - fechaNacimiento.getTime());
+          return Math.abs(edad.getUTCFullYear() - 1970);
+        }
+      </script>
+    <body>
+        <h1 class="kawaii_h2">Acerca de mí</h1>
+        <p class="kawaii ms-4 me-4" >¡Hola! Mi nombre es Clara Bujeda y tengo <script>document.write(calcularEdad());</script> años.</p>
+    </body>
+      
 </body>
