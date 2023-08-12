@@ -85,8 +85,16 @@
             display: block;
         }
 
+        
+
         .kawaii-card {
             background-color: #FFD7F5;
+
+        }
+
+        .dark-card {
+            background-color: #386ca0;
+
         }
 
         .kawaii-title {
@@ -114,6 +122,12 @@
         .kawaii-button:focus {
             box-shadow: none;
         }
+
+        .isDisabled {
+            cursor: not-allowed;
+            
+            
+          }
     </style>
 </head>
 
@@ -151,6 +165,20 @@
         <div class="row mt-3">
             <div class="col-12">
                 <div class="row">
+
+                    <!-- WD vide-->
+                    <div class="col-md-3 col-sm-6">
+                        <div class="card dark-card">
+                            <img class="card-img-top" src="../img/proyects/WDvide.svg" alt="Cute Image">
+                            <div class="card-body">
+                                <h5 class="card-title kawaii-title">WDvide</h5>
+                                <p class="card-text kawaii-description">Video Streaming Server</p>
+                                <a href="#" class="btn btn-outline-primary kawaii-button isDisabled">En desarrollo</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- NIB-->
                     <div class="col-md-3 col-sm-6">
                         <div class="card kawaii-card">
                             <img class="card-img-top" src="../img/proyects/Logo_Fondo_Empty.png" alt="Cute Image">
@@ -161,6 +189,13 @@
                             </div>
                         </div>
                     </div>
+
+
+
+                   
+
+
+
                 </div>
             </div>
         </div>
