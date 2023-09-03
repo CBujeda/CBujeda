@@ -16,8 +16,6 @@
 </div>
 -->
 
-<h3 align="left">Languages and Tools:</h3>
-
 
   
   ###
@@ -30,7 +28,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/CBujeda/CBujeda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<div>
