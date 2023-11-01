@@ -20,9 +20,9 @@
 
 <div align="center" style="margin-top:10px">
   <a href="https://es.linkedin.com/in/clara-bujeda" target="_blank">
-    <img src="./assets/20231101_132818_badge-linkedin.png" width="150" height="30" alt="linkedin logo"  />
+    <img src="./assets/badge-linkedin.png" width="150" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://youtube.com/@clarabujeda" target="_blank">
-    <img src="./assets/20231101_132831_badge-youtube.png" width="150" height="30" alt="youtube logo"  />
+    <img src="./assets/badge-youtube.png" width="150" height="30" alt="youtube logo"  />
   </a>
 </div>
