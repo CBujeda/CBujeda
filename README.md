@@ -21,7 +21,7 @@
     <img src="./assets/badge-youtube.png" width="150" height="30" alt="youtube logo"  />
   </a>
 </div>
-
+<hr>
 <div>
 <h3> Youtube </h3>
 </div>
