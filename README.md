@@ -26,6 +26,8 @@
 <h3> Youtube </h3>
 </div>
 <div align="center">
+<!--NONE-->
+
  
 <!-- BEGIN YOUTUBE-CARDS -->
 [![NINE MOD The Moon](https://ytcards.demolab.com/?id=t67p5K9XJ84&title=NINE+MOD+The+Moon&lang=en&timestamp=1703438109&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NINE MOD The Moon")](https://www.youtube.com/watch?v=t67p5K9XJ84)
@@ -36,4 +38,7 @@
 [![PROGRAMANDO Y TRABAJANDO](https://ytcards.demolab.com/?id=ymqVW00_ozY&title=PROGRAMANDO+Y+TRABAJANDO&lang=en&timestamp=1686394924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PROGRAMANDO Y TRABAJANDO")](https://www.youtube.com/watch?v=ymqVW00_ozY)
 <!-- END YOUTUBE-CARDS -->
 
+
+
+<!--NONE-->
 </div>
