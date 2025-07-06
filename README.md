@@ -20,6 +20,7 @@
   <a href="https://youtube.com/@clarabujeda" target="_blank">
     <img src="./assets/badge-youtube.png" width="150" height="30" alt="youtube logo"  />
   </a>
+ <a rel="me" href="https://mastodon.social/@bujeda">Mastodon</a>
 </div>
 <hr>
 <div>
