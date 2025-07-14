@@ -1,8 +1,5 @@
 ![](assets/20231101_134806_Github-Poster.png)
 <div align="center">
-
-<img src="https://profile-counter.glitch.me/CBujeda/count.svg?"  />
-
 </div>
 <hr>
 <div align="center">
